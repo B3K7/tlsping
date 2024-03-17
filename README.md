@@ -51,20 +51,23 @@ tlsping -help
 ```
 
 ## Installation
-Download a **binary release** for your target operating system from the [releases page](https://github.com/airnandez/tlsping/releases).
+Download a **binary release** for your target operating system from the [releases page](https://github.com/B3K7/tlsping/releases).
 
 Alternatively, if you prefer to **build from sources**, you need the [Go programming environment](https://golang.org). Do:
 
 ```
-go get -u github.com/airnandez/tlsping/...
+go get -u github.com/B3K7/tlsping/...
 ```
 
 ## Credits
 
-This tool was developed and is maintained by Fabio Hernandez at [IN2P3 / CNRS computing center](http://cc.in2p3.fr) (Lyon, France).
+This tool based on work by Fabio Hernandez at [IN2P3 / CNRS computing center](http://cc.in2p3.fr) (Lyon, France).
 
 ## License
+
+Copyright (C)  2024 Brent Kimberley
 Copyright 2016-2020 Fabio Hernandez
+ALL RIGHTS RESERVED
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

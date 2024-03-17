@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/airnandez/tlsping"
+	"github.com/B3K7/tlsping"
 )
 
 func main() {
